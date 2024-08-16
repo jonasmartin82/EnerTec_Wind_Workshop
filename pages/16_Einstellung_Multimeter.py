@@ -81,7 +81,7 @@ st.write('---')
 
 st.subheader('Rot mA')
 
-st.image('rot_ma.png', width=500)
+st.image('rot_mA.png', width=500)
 
 st.write('---')
 
